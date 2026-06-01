@@ -29,7 +29,7 @@ const credentials = [
 
 const stack = {
   Design: ["Figma", "Figma Make", "v0", "Affinity", "Canva", "Photoshop", "Illustrator", "XD"],
-  Produto: ["UX/UI", "auditoria UX", "acessibilidade", "design systems", "documentação", "handoff"],
+  Produto: ["UX/UI", "Auditoria UX", "Acessibilidade", "SEO Técnico", "Design Systems", "Documentação"],
   "Front-end": ["HTML", "CSS", "JavaScript", "React.js", "Next.js", "Node.js", "GitHub", "Vercel"],
 };
 
